@@ -10,7 +10,7 @@ We are still experimenting with the online meetings, creating the content on how
 
 ## How to Participate Online: Rules and Etiquette
 
-This document outlines the general rules and practicalities on how to maintain a fair and healthy conversation between participants of chatrooms without overstepping the general aim of these community gatherings. The recommendations listed here are based on the best practices on online meetings, experienced and shared by the community over time. We are open to recommendations on improving the rules. Please do not hesitate to add your comments to this document.
+This document outlines the general rules and practicalities on how to maintain a fair and healthy conversation between participants of chatrooms without overstepping the general aim of these community gatherings. The recommendations listed here are based on the best practices on online meetings, experienced and shared by the community over time. We are open to recommendations on improving the rules. Please do not hesitate to send your comments as issues.
 
 Please make sure to follow and to make everyone else follow the rules listed below to create an environment in which everyone feels included and is given enough chance to represent him/herself. The general rules are to assure you will receive the highest benefit from these online discussions and gatherings. Therefore, there will be no exception regarding those rules. 
 
