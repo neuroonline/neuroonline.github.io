@@ -2,13 +2,11 @@
 
 # *Welcome to the NeuroOnline* 
 
- **NeuroOnline** is a platform which was initiated by Konrad Kording (@KordingLab) and maintained by the community, which aims to bring anyone from the neuroscience community together in a series of online meetings to discuss topics from science to brewing beer. This is a platform that welcomes the members of the community, who are interested in sharing their experiences, ideas, discussions over theories, paradigms, or their love of cooking or drinking by simply joining from their own locals.
+**NeuroOnline** is a platform which was initiated by Konrad Kording ([@KordingLab](https://twitter.com/KordingLab)) and maintained by the community, which aims to bring anyone from the neuroscience community together in a series of online meetings to discuss topics from science to brewing beer. This is a platform that welcomes the members of the community who are interested in sharing their experiences, ideas, discussions over theories, paradigms, or their love of cooking or drinking by simply joining from their own locals.
 
-We had our first successful meeting on 14th March, started in the European time zone and continued towards the American time zones with many researchers from various backgrounds. The next meetings will be held on **Thursdays** at **8:30pm GMT** and/or **8:30pm EST**, please join us at [Zoom](https://zoom.us/j/494356531) You can find the details of the meeting [here](https://docs.google.com/document/d/16tebVYi5Hawepoge41ip7m9rJEFzf_H3j5EZi6dtFGo/edit?usp=sharing)!
+We had our first successful meeting on 14th March, which started in the European time zone and continued towards the American time zones with many researchers from various backgrounds. The next meetings will be held on **Thursdays** at **8:30pm GMT** and/or **8:30pm EST**, please join us at [Zoom](https://zoom.us/j/494356531). You can find the details of the meeting [here](https://docs.google.com/document/d/16tebVYi5Hawepoge41ip7m9rJEFzf_H3j5EZi6dtFGo/edit?usp=sharing)!
 
-We are still experimenting with the meetings, creating the contents regarding how to run the meetings successfully to make sure that everyone can get as much benefit as they can from all. So please have a look at the materials created so far and let us know what you think, or how we can make the whole concept better and accessible for all. Send your recommendations as issues and let's grow it all together!
-
-
+We are still experimenting with the online meetings, creating the content on how to successfully run them so that everyone can receive as much benefit as possible from all. So please have a look at the materials created so far and let us know what you think, or how we can make the whole concept better and more accessible to all of you. Send your recommendations as issues and let's grow  together!
 
 ## How to Participate Online: Rules and Etiquette
 
@@ -27,7 +25,6 @@ We also address several practicalities to provide a guideline on facilitating yo
 - Please avoid dominating the room’s chat. 
 - Please avoid raising controversial topics from those listed in the Code of Conduct. 
 
-
 ### Practicalities
 
 - Please join to our [Mattermost](https://mattermost.brainhack.org/brainhack/channels/neuro-online-now) channel to follow up the updates!
@@ -41,7 +38,5 @@ We also address several practicalities to provide a guideline on facilitating yo
 - It is always nice to ask others how you can help by taking notes so that a discussion’s main points are preserved. 
 Please try to use the time given/allocated for that chat room wisely and make sure that everyone who would like to talk has a chance to talk. 
 - Feel free to share the [Recommend it!](https://docs.google.com/spreadsheets/d/1dRs4jKGKOEPVhhqGbPSDJTsuTOylssg8lYzPIqHRzcI/edit?usp=sharing) Excel sheet, in which participants can find/add suggestions on which books/papers to read, tutorials/talks to watch/go through, a podcast to listen to, movies/documentaries to watch, etc. Do not forget to add the date on which you add a recommendation.
-- If you would like to continue your discussions with (a participant(s) offline, please make sure that each party has agreed on the continuation of the discussions/interactions and do not forget to exchange the required contact information. 
+- If you would like to continue your discussions with (a) participant(s) offline, please make sure that each party has agreed on the continuation of the discussions/interactions and do not forget to exchange the required contact information. 
 - Please avoid being persistent and insistent on your requests throughout your conversations with the rest of the participants either online and offline.
-
-
