@@ -37,6 +37,7 @@ We also address several practicalities to provide a guideline on facilitating yo
 - Please do not feel obliged to contribute to the discussions; you can also be a listener-only, i.e. just listening and exposing yourself to the ongoing discussions. 
 - It is always nice to ask others how you can help by taking notes so that a discussion’s main points are preserved. 
 - Please try to use the time given/allocated for that chat room wisely and make sure that everyone who would like to talk has a chance to talk. 
-- Feel free to share the [Recommend it!](https://docs.google.com/spreadsheets/d/1dRs4jKGKOEPVhhqGbPSDJTsuTOylssg8lYzPIqHRzcI/edit?usp=sharing) Excel sheet, in which participants can find/add suggestions on which books/papers to read, tutorials/talks to watch/go through, a podcast to listen to, movies/documentaries to watch, etc. Do not forget to add the date on which you add a recommendation.
+- We know that sharing makes everything even better! Feel free to share your suggestions on which books/papers to read, tutorials/talks to watch/go through, a podcast to listen to, movies/documentaries to watch,  with the community using [Recommend it!](https://docs.google.com/spreadsheets/d/1dRs4jKGKOEPVhhqGbPSDJTsuTOylssg8lYzPIqHRzcI/edit?usp=sharing) excel sheet! 
+
 - If you would like to continue your discussions with (a) participant(s) offline, please make sure that each party has agreed on the continuation of the discussions/interactions and do not forget to exchange the required contact information. 
 - Please avoid being persistent and insistent on your requests throughout your conversations with the rest of the participants either online and offline.
